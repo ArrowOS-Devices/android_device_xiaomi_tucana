@@ -1,4 +1,4 @@
-# Device proprietary files - from tucana MIUI V12.5.6.0.RFDMIXM, unless pinned
+# Device proprietary files - from tucana MIUI 22.3.2, unless pinned
 
 # ADSP modules
 vendor/lib/rfsa/adsp/libSuperSensor_skel.so
