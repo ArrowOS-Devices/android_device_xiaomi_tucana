@@ -1,4 +1,4 @@
-# Device proprietary files - from tucana MIUI 22.3.2, unless pinned
+# Device proprietary files - from tucana MIUI V13.0.1.0.RFDCNXM, unless pinned
 
 # ADSP modules
 vendor/lib/rfsa/adsp/libSuperSensor_skel.so
@@ -265,7 +265,7 @@ vendor/lib64/camera.device@3.5-external-impl.so
 vendor/lib64/camera.device@3.5-impl.so
 vendor/lib64/camera.device@3.6-external-impl.so
 vendor/lib64/vendor.qti.hardware.camera.device@1.0.so
-vendor/lib64/vendor.qti.hardware.camera.device@2.0.so
+vendor/lib64/vendor.qti.hardware.camera.device@2.0.so|c22277198a5fdd7e4b7b057ef5068f7edbd3f817
 vendor/lib64/vendor.qti.hardware.camera.device@3.5.so
 
 # Camera (sensors)
