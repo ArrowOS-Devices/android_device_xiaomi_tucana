@@ -1,2 +1,2 @@
-require version-baseband-eea=GLOBAL,4.3.c5-00100,V12.5.4.0.RFDMIXM
-require version-baseband-cn=CN,4.3.c5-00100,V12.5.4.0.RFDCNXM
+require version-baseband-GLOBAL=4.3.c5-00100,V12.5.4.0.RFDMIXM
+require version-baseband-CN=4.3.c5-00100,V12.5.4.0.RFDCNXM
